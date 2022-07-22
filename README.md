@@ -1,6 +1,6 @@
 # README #
 
-This repository hosts a **Sentiment Analysis** on an amazon english reviews dataset using various tranformers from [Hugging Face](https://huggingface.co/).   
+This repository hosts a **Sentiment Analysis** on an amazon english reviews dataset using various transformers from [Hugging Face](https://huggingface.co/).   
 **PyTorch** has been used as Gradient Computing Library.   
 
 ## Used Transformers ##
